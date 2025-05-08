@@ -1,5 +1,8 @@
 # CodeClauseInternship_Predicting-House-Prices
-# House Price Prediction Using Linear Regression
+## House Price Prediction Using Linear Regression Report
+
+## Table of Contents:
+
 
 ## Introduction
 Accurately predicting house prices is a fundamental challenge in the real estate industry. Buyers seek fair pricing, sellers aim to price competitively, and investors depend on sound projections to allocate capital. This project aims to develop a simple yet effective machine learning model that predicts housing prices based on key attributes of a property. By doing so, we explore the power of data-driven insights in real estate decision-making.
