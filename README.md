@@ -1,7 +1,16 @@
 # CodeClauseInternship_Predicting-House-Prices
 ## House Price Prediction Using Linear Regression Report
 
+
 ## Table of Contents:
+- [Introduction](#introduction)
+- [Problem Definition](#problem-definition)
+- [Data Source](#data-source)
+- [Approach and Methodology](#approach-and-methodology)
+- [Key Insights and Findings](#key-insights-and-findings)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
+- [Future Work](#future-work)
 
 
 ## Introduction
@@ -88,11 +97,11 @@ To assess the model’s performance, we used:
 * The **bedroom count** showed positive correlation with price, but its effect was smaller than area.
 * The final model achieved satisfactory accuracy given the limited feature set, highlighting that even simple models can provide valuable insights when backed by clean, relevant data.
 
-## Conclusion and Recommendations
+## Conclusion 
 
 This project demonstrates that linear regression can be a practical tool for predicting house prices using key property attributes. The model provided interpretable and consistent estimates, validating the effectiveness of thoughtful feature selection and preprocessing.
 
-### Recommendations:
+### Recommendations
 
 * **Data Enrichment**: Include more detailed features such as location, property age, and nearby amenities for improved prediction.
 * **Model Comparison**: Experiment with other algorithms (e.g., Decision Trees, Random Forest) to benchmark performance.
